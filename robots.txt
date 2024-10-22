@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://mhauno.github.io/VLr/sitemap.VLr.gz
